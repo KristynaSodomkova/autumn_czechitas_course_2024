@@ -1,0 +1,69 @@
+# Ignore all IntelliJ IDEA and PyCharm related files
+.idea/
+*.iml
+*.iws
+.idea/*
+
+# Ignore workspace settings
+*.idea/workspace.xml
+*.idea/tasks.xml
+*.idea/dictionaries/
+*.idea/vcs.xml
+*.idea/jsLibraryMappings.xml
+
+# Ignore deployment configuration files
+.idea/artifacts/
+.idea/modules.xml
+.idea/*.iml
+.idea/*.ipr
+.idea/misc.xml
+
+# Ignore run/debug configurations
+.idea/runConfigurations/
+
+# Ignore coverage reports
+.idea/coverage/
+
+# Ignore JIRA plugin config
+.idea/jira.xml
+
+# Ignore data source local storage
+.idea/dataSources/
+.idea/dataSources.ids
+.idea/dataSources.local.xml
+
+# Ignore Gradle
+.idea/gradle.xml
+.idea/libraries/
+
+# Ignore some additional settings
+.idea/assetWizard.xml
+.idea/dynamic.xml
+
+# Ignore Node.js plugin settings
+.idea/nodejs.xml
+
+# Ignore database tools files
+.idea/databaseDrivers.xml
+.idea/sqldialects.xml
+
+# Ignore Android Studio specific files
+.idea/caches/
+.idea/libraries/
+.idea/shelf/
+.idea/modules/
+.idea/libraries/
+.idea/assets/
+.idea/scopes/
+.idea/inspectionProfiles/
+.idea/dictionaries/
+.idea/scratches/
+.idea/httpRequests/
+
+# Ignore PyCharm Virtualenvs
+.idea/virtualenvs/
+
+# Ignore PyCharm settings specific to Python projects
+.idea/.python/
+.idea/remoteDeployments/
+.idea/.pylint.d/
